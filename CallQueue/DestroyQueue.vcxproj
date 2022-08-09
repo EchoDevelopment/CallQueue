@@ -165,11 +165,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
-    <ClCompile Include="src\util.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
-    <None Include="src\usage.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\util.h" />
